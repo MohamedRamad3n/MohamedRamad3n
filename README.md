@@ -1,47 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ramadan</h1>
-<h3 align="center">A frontend Web developer from Egypt</h3>
+<!-- <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Muhammad+Naja+-+Software+Engineer;%2B5+Years+of+coding+Experience+;Always+learning+new+things" alt="Typing SVG" /></a>
+  
 
-- 🔭 I’m currently working on [Food-Ordering-App-With-Next.js-15-and-React.js-19](https://github.com/MohamedRamad3n/Food-Ordering-App-With-Next.js-15-and-React.js-19)
+</p> -->
 
-- 🌱 I’m currently learning **Performance Test for Website**
-
-- 👯 I’m looking to collaborate on [Social Media App](https://github.com/MohamedRamad3n/Social-Media-App)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedRamad3n](https://github.com/MohamedRamad3n)
-
-- 💬 Ask me about **react js || Next js**
-
-- 📫 How to reach me **mr1917@fayoum.edu.eg**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VtR_V8RvGAiF2Z8cydmCLKkkowjRrIZU/view?usp=sharing](https://drive.google.com/file/d/1VtR_V8RvGAiF2Z8cydmCLKkkowjRrIZU/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-ramadan-rabie-gad-7b1421205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ramadan-rabie-gad-7b1421205" height="30" width="40" /></a>
+<!-- Social icons section -->
+<!-- <p align="center">
+  <a href="https://www.youtube.com/@codeawy"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/lJdUxn6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/3YU1CER.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.codeawy.com/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/JU4wMxu.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedramad3n&show_icons=true&locale=en&layout=compact" alt="mohamedramad3n" /></p>
+# 👩‍💻 Mohamed Ramadan Rabie
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedramad3n&show_icons=true&locale=en" alt="mohamedramad3n" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedramad3n&" alt="mohamedramad3n" /></p>
+I'm a highly motivated Front-End Developer with a strong foundation in React, TypeScript, and front-end architecture. I enjoy crafting intuitive user experiences and writing clean, maintainable code. My goal is to bring impactful digital experiences to life through modern web technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Frameworks**: HTML, CSS (Tailwind, Shadcn UI), JavaScript, React.js, Next.js, TypeScript, SQL
+- **Tools & Libraries**: Redux, Redux Toolkit (RTK), React Query, Jest, WebPack, Git, CI/CD, Micro-Frontends
+- **UI & Design**: Material UI, Shadcn UI, Formik, Yub, Syncfusion UI
+
+---
+
+## 💼 Experience
+
+### 🔹 Smart Code – Remote (Jan 2025 – Present)
+- Built responsive UIs with React.js
+- Integrated APIs and optimized performance
+- Worked collaboratively using Git
+
+### 🔹 Kinguin – Freelance (Oct 2024 – Dec 2024)
+- Created Admin Dashboard and Landing Page with React, MUI, and Vite
+- Implemented RTK Query for efficient async data handling
+
+---
+
+## 🚀 Projects
+
+- **[Food Ordering App](https://github.com/MohamedRamad3n/Food-Ordering-App-With-Next.js-15-and-React.js-19.git)**  
+  Full-stack app using Next.js, Prisma, Stripe, and more.
+
+- **[E-Commerce App](https://github.com/MohamedRamad3n/E-Commerce-App-With-React)**  
+  End-to-end shopping experience with authentication and payment integration.
+
+- **[Admin Dashboard](https://github.com/MohamedRamad3n/E-Commerce-App-With-React)**  
+  Advanced dashboard using Context API and Syncfusion UI components.
+
+---
+
+## 📜 Certifications
+
+- **IBM Front-End Developer Professional Certificate** (Apr 2024 – Nov 2024)
+- **Smart Code Academy – Front-End Using React** (Feb 2022 – Nov 2022)
+
+---
+
+## 🎓 Education
+
+**BS in Computer Science**, University of Fayoum (2019 – 2023)  
+Graduated with a *Very Good* grade.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [mr1917@fayoum.edu.eg](mailto:mr1917@fayoum.edu.eg)
+- 📞 Phone: [+20 102 572 8942](tel:+201025728942)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedramadan66/)
+- 🐙 [GitHub](https://github.com/MohamedRamad3n)
+# 🤹‍♀️ Skills
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
